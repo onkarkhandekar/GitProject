@@ -9,6 +9,8 @@ feature 1-Login() -updated by team member for checking 3 way merging
 feature fasle 2-Login();
 
 
-bug is fixed();
+Bug -> is fixed(); 
 
-bag2 is fixed();
+Bug2 -> is fixed();
+
+Change added for rebase test();
