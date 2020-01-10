@@ -10,3 +10,5 @@ feature fasle 2-Login();
 
 
 bug is fixed();
+
+bag2 is fixed();
