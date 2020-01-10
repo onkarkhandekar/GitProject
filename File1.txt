@@ -7,3 +7,6 @@ feature 1-Login();
 
 
 feature fasle 2-Login();
+
+
+bug is fixed();
