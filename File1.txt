@@ -3,7 +3,7 @@ Hellow world!!
 Welcome to git....
 
 
-feature 1-Login();
+feature 1-Login() -updated by team member for checking 3 way merging 
 
 
 feature fasle 2-Login();
